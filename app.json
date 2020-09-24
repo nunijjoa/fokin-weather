@@ -16,11 +16,16 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "package": "com.nuya.nuya",
+      "versionCode": 1
+    },
     "ios": {
       "supportsTablet": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
